@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/fondo_prueba.jpg</file>
+        <file>recursos/data_base.txt</file>
+        <file>recursos/amongus.png</file>
+        <file>recursos/bola.png</file>
+        <file>recursos/enemigo1.png</file>
+        <file>recursos/vidas.png</file>
+        <file>recursos/paisaje1.png</file>
+        <file>recursos/paisaje2.png</file>
+        <file>recursos/paisaje3.png</file>
+        <file>recursos/paisaje4.png</file>
+        <file>recursos/paisaje5.png</file>
+        <file>recursos/fondo_lvl1.png</file>
+        <file>recursos/fondo_lvl2.png</file>
+        <file>recursos/fondo_lvl3.png</file>
+        <file>recursos/fondo_lvl4.png</file>
+        <file>recursos/fondo_lvl5.png</file>
+        <file>recursos/jefe1.png</file>
+        <file>recursos/fondo_inicio.jpg</file>
+        <file>recursos/fondo_pregunta.jpg</file>
+        <file>recursos/fondo_prueba2.jpg</file>
+        <file>recursos/fondo_prueba3.jpg</file>
+        <file>recursos/instructivo.jpg</file>
+        <file>recursos/bala.mp3</file>
+    </qresource>
+</RCC>
